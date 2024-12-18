@@ -37,7 +37,7 @@ Feel free to reach out if you want to collaborate or just chat! 😊
 
 ---
 
-![Nep's Avatar](https://your-image-url.com/avatar.jpg) <!-- Replace with your avatar image URL -->
+![Nep's Avatar](https://i.imgur.com/lOZ0MZw.jpeg) <!-- Replace with your avatar image URL -->
 
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
 > 
