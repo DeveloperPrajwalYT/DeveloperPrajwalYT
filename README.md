@@ -155,7 +155,7 @@
 </table>
 <br><br>
 
-- 📫 How to reach me: top2hightech@gmail.com
+- 📫 How to reach me: nepxsovereign@gmail.com
 
 </div>
 <br/>  
