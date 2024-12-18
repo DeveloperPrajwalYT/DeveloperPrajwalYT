@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nep!
 
-![Nep's Banner](https://your-image-url.com/banner.jpg) <!-- Replace with your banner image URL -->
+![Nep's Banner](https://i.imgur.com/OniLJNP.gif) <!-- Replace with your banner image URL -->
 
 I'm a **16-year-old** front-end developer from **Nepal**. I love creating interactive web applications and developing Discord bots. 🌐🤖
 
